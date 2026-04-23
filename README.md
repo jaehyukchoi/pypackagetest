@@ -1,6 +1,6 @@
 # riskparity
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jaehyukchoi/pypackagetest/blob/main/notebooks/demo.ipynb)
+[![Open Demo In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jaehyukchoi/pypackagetest/blob/main/notebooks/demo.ipynb)
 
 Risk parity portfolio optimization via the **improved CCD method** of Choi & Chen (2022).
 
