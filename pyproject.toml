@@ -3,7 +3,7 @@ requires = ["setuptools>=68"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "riskparity"
+name = "mafn-pypackagetest"
 version = "0.1.0"
 description = "Risk parity portfolio via the improved CCD method (Choi & Chen, 2022)"
 readme = "README.md"
