@@ -27,7 +27,7 @@ CCD method and saving ~40% of iterations.
 ## Installation
 
 ```bash
-pip install riskparity
+pip install mafn-pypackagetest
 ```
 
 ## Quick start
