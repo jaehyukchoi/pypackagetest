@@ -62,6 +62,12 @@ from riskparity import risk_contributions
 rc = risk_contributions(weights, cov)  # fractional RC for any portfolio
 ```
 
+## Demo notebook
+
+An interactive demo is available at [`notebooks/demo.ipynb`](notebooks/demo.ipynb):
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jaehyukchoi/pypackagetest/blob/main/notebooks/demo.ipynb)
+
 ## API reference
 
 ### `risk_parity(cov, b=None, tol=1e-6, max_iter=1000)`
@@ -89,9 +95,3 @@ Compute fractional risk contributions for any portfolio.
 ## License
 
 MIT
-
-## Demo notebook
-
-An interactive demo is available at [`notebooks/demo.ipynb`](notebooks/demo.ipynb):
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jaehyukchoi/pypackagetest/blob/main/notebooks/demo.ipynb)
