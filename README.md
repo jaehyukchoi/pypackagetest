@@ -1,5 +1,7 @@
 # riskparity
 
+[![Open Demo In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jaehyukchoi/pypackagetest/blob/main/notebooks/demo.ipynb)
+
 Risk parity portfolio optimization via the **improved CCD method** of Choi & Chen (2022).
 
 > Choi, J., & Chen, R. (2022). Improved iterative methods for solving risk parity portfolio.
@@ -61,12 +63,6 @@ result = risk_parity(cov, b=b)
 from riskparity import risk_contributions
 rc = risk_contributions(weights, cov)  # fractional RC for any portfolio
 ```
-
-## Demo notebook
-
-An interactive demo is available at [`notebooks/demo.ipynb`](notebooks/demo.ipynb):
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jaehyukchoi/pypackagetest/blob/main/notebooks/demo.ipynb)
 
 ## API reference
 
